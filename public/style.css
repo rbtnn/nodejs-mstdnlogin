@@ -1,0 +1,15 @@
+
+#wrapper {
+	margin-top: 20px;
+}
+
+#wrapper label {
+	text-decoration: underline;
+}
+
+#output {
+	padding: 10px;
+	vertical-align: top;
+	text-align: left;
+	background-color: #eee;
+}
